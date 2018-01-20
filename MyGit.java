@@ -12,8 +12,7 @@ class MyGit {
         System.out.println("After 20,000 days: " + dateFormatter.format(calendar.getTime()));
         // your info
         System.out.println("Zexian Wang);
-        System.out.println("I love Cloud Computing");;
-        
+        System.out.println("I love Cloud Computing");
     public static void main(String[] args) {
         myGit();
     }
